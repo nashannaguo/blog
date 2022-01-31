@@ -40,7 +40,6 @@ toc:
 
 ## 2 安装
 
-以下步骤可帮助你初始化新网站. 如果你根本不了解 Hugo, 我们强烈建议你按照此 [快速入门文档](https://gohugo.io/getting-started/quick-start/) 进一步了解它.
 
 ### 2.1 创建你的项目
 
